@@ -29,7 +29,7 @@ Two full adders were used to make the 2-bit ripple carry adder.
 The sum is displayed on a BCD-to-seven-segment decoder.  
 
 <p align="center">
-<img src = "seven-segment-display/images/7seg.png"/>
+<img src = "seven-segment/images/7seg.png"/>
 </p>
 
 ## 4-bit Adder 
